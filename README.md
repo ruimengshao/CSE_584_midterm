@@ -4,6 +4,7 @@ This is the mid-term project for CSE-584 which collects data from different LLMs
 
 
 Instruction of Code:
+
 data folder - Contains the datasets we constructed from getting_pairs.ipynb, the data stored in three files which are train_df.csv, valid_df.csv, test_df.csv for training, validation, and testing data
 
 getting_pairs.ipynb - Contains the code to get data and store the outputs from LLMs to construct the new dataset for classification task
