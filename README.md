@@ -3,7 +3,7 @@
 This is the mid-term project for CSE-584 which collects data from different LLMs with truncated texts and builds a classifier to identify which LLM produced the corresponding complete text
 
 
-Instruction of Code:
+Instruction of Files:
 
 data folder - Contains the datasets we constructed from getting_pairs.ipynb, the data stored in three files which are train_df.csv, valid_df.csv, test_df.csv for training, validation, and testing data
 
